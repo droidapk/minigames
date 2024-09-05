@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://droidapk/sitemapx.xml
+Sitemap: https://droidapk.github.io/sitemapx.xml
